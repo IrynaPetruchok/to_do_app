@@ -1,0 +1,74 @@
+C:\Users\a\source\repos\To Do List App\To Do List App\bin\Debug\To Do List App.exe.config
+C:\Users\a\source\repos\To Do List App\To Do List App\bin\Debug\To Do List App.exe
+C:\Users\a\source\repos\To Do List App\To Do List App\bin\Debug\To Do List App.pdb
+C:\Users\a\source\repos\To Do List App\To Do List App\obj\Debug\To Do List App.csproj.AssemblyReference.cache
+C:\Users\a\source\repos\To Do List App\To Do List App\obj\Debug\To Do List App.csproj.SuggestedBindingRedirects.cache
+C:\Users\a\source\repos\To Do List App\To Do List App\obj\Debug\To_Do_List_App.ToDoList.resources
+C:\Users\a\source\repos\To Do List App\To Do List App\obj\Debug\To_Do_List_App.Properties.Resources.resources
+C:\Users\a\source\repos\To Do List App\To Do List App\obj\Debug\To Do List App.csproj.GenerateResource.cache
+C:\Users\a\source\repos\To Do List App\To Do List App\obj\Debug\To Do List App.csproj.CoreCompileInputs.cache
+C:\Users\a\source\repos\To Do List App\To Do List App\obj\Debug\To Do List App.exe
+C:\Users\a\source\repos\To Do List App\To Do List App\obj\Debug\To Do List App.pdb
+C:\Navchannia\Cursach_Ira\To Do List App\To Do List App\bin\Debug\To Do List App.exe.config
+C:\Navchannia\Cursach_Ira\To Do List App\To Do List App\bin\Debug\To Do List App.exe
+C:\Navchannia\Cursach_Ira\To Do List App\To Do List App\bin\Debug\To Do List App.pdb
+C:\Navchannia\Cursach_Ira\To Do List App\To Do List App\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Navchannia\Cursach_Ira\To Do List App\To Do List App\bin\Debug\System.Buffers.dll
+C:\Navchannia\Cursach_Ira\To Do List App\To Do List App\bin\Debug\System.Memory.dll
+C:\Navchannia\Cursach_Ira\To Do List App\To Do List App\bin\Debug\System.Numerics.Vectors.dll
+C:\Navchannia\Cursach_Ira\To Do List App\To Do List App\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Navchannia\Cursach_Ira\To Do List App\To Do List App\bin\Debug\System.Text.Encodings.Web.dll
+C:\Navchannia\Cursach_Ira\To Do List App\To Do List App\bin\Debug\System.Text.Json.dll
+C:\Navchannia\Cursach_Ira\To Do List App\To Do List App\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Navchannia\Cursach_Ira\To Do List App\To Do List App\bin\Debug\System.ValueTuple.dll
+C:\Navchannia\Cursach_Ira\To Do List App\To Do List App\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Navchannia\Cursach_Ira\To Do List App\To Do List App\bin\Debug\System.Buffers.xml
+C:\Navchannia\Cursach_Ira\To Do List App\To Do List App\bin\Debug\System.Memory.xml
+C:\Navchannia\Cursach_Ira\To Do List App\To Do List App\bin\Debug\System.Numerics.Vectors.xml
+C:\Navchannia\Cursach_Ira\To Do List App\To Do List App\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Navchannia\Cursach_Ira\To Do List App\To Do List App\bin\Debug\System.Text.Encodings.Web.xml
+C:\Navchannia\Cursach_Ira\To Do List App\To Do List App\bin\Debug\System.Text.Json.xml
+C:\Navchannia\Cursach_Ira\To Do List App\To Do List App\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Navchannia\Cursach_Ira\To Do List App\To Do List App\bin\Debug\System.ValueTuple.xml
+C:\Navchannia\Cursach_Ira\To Do List App\To Do List App\obj\Debug\To Do List App.csproj.AssemblyReference.cache
+C:\Navchannia\Cursach_Ira\To Do List App\To Do List App\obj\Debug\To_Do_List_App.ToDoList.resources
+C:\Navchannia\Cursach_Ira\To Do List App\To Do List App\obj\Debug\To_Do_List_App.Properties.Resources.resources
+C:\Navchannia\Cursach_Ira\To Do List App\To Do List App\obj\Debug\To Do List App.csproj.GenerateResource.cache
+C:\Navchannia\Cursach_Ira\To Do List App\To Do List App\obj\Debug\To Do List App.csproj.CoreCompileInputs.cache
+C:\Navchannia\Cursach_Ira\To Do List App\To Do List App\obj\Debug\To Do List App.csproj.CopyComplete
+C:\Navchannia\Cursach_Ira\To Do List App\To Do List App\obj\Debug\To Do List App.exe
+C:\Navchannia\Cursach_Ira\To Do List App\To Do List App\obj\Debug\To Do List App.pdb
+C:\Navchannia\Cursach_Ira\To Do List App\To Do List App\obj\Debug\To_Do_List_App.CompletedTasksForm.resources
+C:\Navchannia\Cursach_Ira\To Do List App\To Do List App\obj\Debug\To_Do_List_App.DeletedTasksForm.resources
+C:\Users\a\source\repos\To Do List App_1\To Do List App\bin\Debug\To Do List App.exe.config
+C:\Users\a\source\repos\To Do List App_1\To Do List App\bin\Debug\To Do List App.exe
+C:\Users\a\source\repos\To Do List App_1\To Do List App\bin\Debug\To Do List App.pdb
+C:\Users\a\source\repos\To Do List App_1\To Do List App\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\a\source\repos\To Do List App_1\To Do List App\bin\Debug\System.Buffers.dll
+C:\Users\a\source\repos\To Do List App_1\To Do List App\bin\Debug\System.Memory.dll
+C:\Users\a\source\repos\To Do List App_1\To Do List App\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\a\source\repos\To Do List App_1\To Do List App\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\a\source\repos\To Do List App_1\To Do List App\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\a\source\repos\To Do List App_1\To Do List App\bin\Debug\System.Text.Json.dll
+C:\Users\a\source\repos\To Do List App_1\To Do List App\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\a\source\repos\To Do List App_1\To Do List App\bin\Debug\System.ValueTuple.dll
+C:\Users\a\source\repos\To Do List App_1\To Do List App\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\a\source\repos\To Do List App_1\To Do List App\bin\Debug\System.Buffers.xml
+C:\Users\a\source\repos\To Do List App_1\To Do List App\bin\Debug\System.Memory.xml
+C:\Users\a\source\repos\To Do List App_1\To Do List App\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\a\source\repos\To Do List App_1\To Do List App\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\a\source\repos\To Do List App_1\To Do List App\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\a\source\repos\To Do List App_1\To Do List App\bin\Debug\System.Text.Json.xml
+C:\Users\a\source\repos\To Do List App_1\To Do List App\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\a\source\repos\To Do List App_1\To Do List App\bin\Debug\System.ValueTuple.xml
+C:\Users\a\source\repos\To Do List App_1\To Do List App\obj\Debug\To Do List App.csproj.AssemblyReference.cache
+C:\Users\a\source\repos\To Do List App_1\To Do List App\obj\Debug\To Do List App.csproj.SuggestedBindingRedirects.cache
+C:\Users\a\source\repos\To Do List App_1\To Do List App\obj\Debug\To_Do_List_App.CompletedTasksForm.resources
+C:\Users\a\source\repos\To Do List App_1\To Do List App\obj\Debug\To_Do_List_App.DeletedTasksForm.resources
+C:\Users\a\source\repos\To Do List App_1\To Do List App\obj\Debug\To_Do_List_App.ToDoList.resources
+C:\Users\a\source\repos\To Do List App_1\To Do List App\obj\Debug\To_Do_List_App.Properties.Resources.resources
+C:\Users\a\source\repos\To Do List App_1\To Do List App\obj\Debug\To Do List App.csproj.GenerateResource.cache
+C:\Users\a\source\repos\To Do List App_1\To Do List App\obj\Debug\To Do List App.csproj.CoreCompileInputs.cache
+C:\Users\a\source\repos\To Do List App_1\To Do List App\obj\Debug\To Do List App.csproj.CopyComplete
+C:\Users\a\source\repos\To Do List App_1\To Do List App\obj\Debug\To Do List App.exe
+C:\Users\a\source\repos\To Do List App_1\To Do List App\obj\Debug\To Do List App.pdb
